@@ -1,5 +1,5 @@
 navbar {
-    background-image: url("file:///C:/Users/90545/Desktop/photo-1454117096348-e4abbeba002c.jpg");
+    background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
@@ -18,7 +18,7 @@ html{
 }
 
 body{
-    background-image: url("file:///C:/Users/90545/Desktop/photo-1454117096348-e4abbeba002c.jpg");
+    background-image: url("https://images.unsplash.com/photo-1454117096348-e4abbeba002c?ixlib=rb-1.2.1&w=1080&fit=max&q=80&fm=jpg&crop=entropy&cs=tinysrgb");
     background-repeat: no-repeat;
     background-position: center center;
     background-attachment: fixed;
