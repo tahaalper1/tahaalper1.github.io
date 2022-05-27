@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+html{
+    font-family: cursive;
+}
+
+body{
+    background-image: url("file:///C:/Users/90545/Desktop/photo-1454117096348-e4abbeba002c.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#navbar{
+    background-image: url("file:///C:/Users/90545/Desktop/photo-1454117096348-e4abbeba002c.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.75rem;
+    height: 70px;
+   
+}  
+
+#navbar ul{
+    list-style-type: none;
+    display: flex;
+    align-items: stretch;
+    position: relative;
+    top: 2rem;
+    left: 80rem;
+}
+
+#navbar ul li a {
+    padding: 1.0rem;
+                box-shadow: 0 0 1.5rem grey,
+                0 0 1.2rem grey,
+                0 0 1.0rem grey,
+                0 0 0.8rem grey,
+                0 0 0.6rem grey;            
+    
+    background: black;
+    border-radius: 20px;
+    width: 5rem;
+    margin: 1rem;
+}
+
+#navbar ul li a{
+    transition: 0.5s all;
+}
+
+#navbar a:hover{
+    transform: scale(1.6) rotate(360deg);
+}
+
+
+#navbar ul li a:hover{
+
+    background: gray;
+    border-radius: 35px;
+}
+
+#home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    border-bottom: 1px solid gray;
+}
+#home img{
+    height: 15rem;
+    width: 15rem;
+    border-radius: 100%;
+    position: relative;
+    top: 3rem;
+    left: -45rem;
+    
+}
+#home .name {
+    text-align: center;
+    position: relative;
+    top: 4rem;
+    left: -45rem;
+}
+#home .name h2{
+    margin-bottom: 0.3750rem;
+}
+#home .name p{
+    opacity: 0.6;
+    font-style: italic;
+    font-size: 1.5rem;
+}
+
+.deneme p{
+    font-size: 2rem;
+    position: relative;
+    top: -12rem;
+    left: 3rem;
+}
+
+.deneme h3{
+    font-size: 4rem;
+    position: relative;
+    top: -15rem;
+    left: 3rem;
+}
+
+#home{
+    border-style: none;
+}
+
+
+
+.sosyal {
+    position: relative;
+    top: -6rem;
+    left: -42rem;
+    transform: translate(-50%,-50%);
+    display: inline;
+}
+
+
+.sosyal div a{
+    display: inline-flex;
+    height: 4rem;
+    width: 4rem;
+    background: black;
+    font-size: 3rem;
+    color: white;
+    margin: 0 6px;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+}
+
+.sosyal a i{
+    transition: 0.5s all;
+}
+
+.sosyal a:hover > i{
+    transform: scale(1.6) rotate(360deg);
+}
+
+.sosyal .git a:hover{
+    background: grey
+}
+
+.sosyal .linkedin a:hover{
+    background: darkblue;
+   
+}
+
+.sosyal .mail a:hover{
+    background: red;
+}
+
+.sosyal .ınsta a:hover{
+    background: #7315c6;
+}
+
+.sosyal .twit a:hover{
+    background: #1da1f2;
+}
+ 
