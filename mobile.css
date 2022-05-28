@@ -87,7 +87,7 @@ body{
 .sosyal {
     position: relative;
     top: -13rem;
-    left: 0.8rem;
+    left: 1rem;
     transform: translate(-50%,-50%);
     display: inline;
 }
@@ -97,8 +97,8 @@ body{
     padding: 0;
     text-decoration: none;
     position: absolute;
-    top: 45rem;
-    left: 6rem;
+    top: 46.5rem;
+    left: 7rem;
     transform: translate(-50%,-50%);
     display: inline;
 }
