@@ -86,8 +86,8 @@ body{
 
 .sosyal {
     position: relative;
-    top: -10rem;
-    left: 1rem;
+    top: -13rem;
+    left: 0.5rem;
     transform: translate(-50%,-50%);
     display: inline;
 }
