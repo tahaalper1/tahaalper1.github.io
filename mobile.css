@@ -97,7 +97,7 @@ body{
     padding: 0;
     text-decoration: none;
     position: absolute;
-    top: 45.8em;
+    top: 46.5em;
     left: 11rem;
     transform: translate(-50%,-50%);
     display: inline;
@@ -108,10 +108,10 @@ body{
 }
 .sosyal div a{
     display: inline-flex;
-    height: 1.5rem;
-    width: 1.5rem;
+    height: 1.75rem;
+    width: 1.75rem;
     background: black;
-    font-size: 0.80rem;
+    font-size: 0.95rem;
     color: white;
     border-radius: 50%;
     justify-content: center;
