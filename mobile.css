@@ -87,7 +87,7 @@ body{
 .sosyal {
     position: relative;
     top: -13rem;
-    left: 0.5rem;
+    left: 0.8rem;
     transform: translate(-50%,-50%);
     display: inline;
 }
@@ -108,10 +108,10 @@ body{
 }
 .sosyal div a{
     display: inline-flex;
-    height: 1.25rem;
-    width: 1.25rem;
+    height: 1.5rem;
+    width: 1.5rem;
     background: black;
-    font-size: 0.65rem;
+    font-size: 0.80rem;
     color: white;
     border-radius: 50%;
     justify-content: center;
